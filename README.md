@@ -1,8 +1,6 @@
 ## Hey, I'm Jack 👋
 
-- 🔭 I'm a Front end engineer working across [Mendeley](https://www.mendeley.com/search) building a researcher tool
-
-- 🌱 I’m currently learning Docker & Kubernetes on Udemy. Trying to broaden my horizons and become "full stack" if that's even possible
+- 🔭 I'm a Full stack engineer working across [Mendeley](https://www.mendeley.com/search) specialising in the Front end
 
 - 📫 You can find me here [LinkedIn](https://www.linkedin.com/in/jack-hutchinson-dev/)
 
