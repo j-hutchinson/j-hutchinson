@@ -1,6 +1,6 @@
 ## Hey, I'm Jack 👋
 
-- 🔭 I'm a Full stack engineer working across [Mendeley](https://www.mendeley.com/search) specialising in the Front end
+- 🔭 I'm a Full stack engineer working across [Checkout.com](https://www.checkout.com/) specialising in the Front end
 
 - 📫 You can find me here [LinkedIn](https://www.linkedin.com/in/jack-hutchinson-dev/)
 
