@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Tech Stack
 
-A few of the coding languages and tools I have experience within a professional environment or for fun in my spare time
+A few of the coding languages and tools I have experience within a professional environment or for fun in one of my side projects
 
 <div  align="center">
 
