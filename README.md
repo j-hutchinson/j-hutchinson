@@ -2,7 +2,7 @@
 
 - 🔭 I'm a Full stack engineer working across [Checkout.com](https://www.checkout.com/) specialising in the Front end
 
-- 📫 You can find me here [LinkedIn](https://www.linkedin.com/in/jack-hutchinson-dev/) or checkout out my [personal site](https://jackhutchinson.co.uk)
+- 📫 You can find me here [LinkedIn](https://www.linkedin.com/in/jack-hutchinson-dev/) or checkout my [personal site](https://jackhutchinson.co.uk)
 
 - ⚡ Fun fact: I've been playing guitar for over 10 years, my dad showing my rock music on youtube started me down a _huge_ rabbit hole 🤘
 
