@@ -1,18 +1,3 @@
-## Hey, I'm Jack 👋
-
-- 🔭 I'm a Full stack engineer working across [Tray.io](https://www.tray.io/) specialising in the Front end
-
-- 📫 You can find me here [LinkedIn](https://www.linkedin.com/in/jack-hutchinson-dev/) or check out my [personal site](https://jackhutchinson.co.uk)
-
-- ⚡ Fun fact: I've been playing guitar for over 10 years, my dad showing my rock music on youtube started me down a _huge_ rabbit hole 🤘
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" alt="Live action shot of Jack coding" />
-</div>
-
-## 👨‍💻 Tech Stack
-
-A few of the coding languages and tools I have experience within a professional environment or for fun in one of my side projects
 
 <div align="center">
 
